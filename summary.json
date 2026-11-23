@@ -1,0 +1,27 @@
+{
+  "dataset_size": 40,
+  "independent_examples": 40,
+  "runs": [
+    {
+      "run": 1,
+      "correct": 40,
+      "seconds": 1.221,
+      "cost_rub": "0.27899965"
+    },
+    {
+      "run": 2,
+      "correct": 40,
+      "seconds": 1.263,
+      "cost_rub": "0.27899965"
+    },
+    {
+      "run": 3,
+      "correct": 40,
+      "seconds": 1.205,
+      "cost_rub": "0.27899965"
+    }
+  ],
+  "total_cost_rub": "0.83699895",
+  "budget_rub": 50,
+  "gold_in_request": false
+}
